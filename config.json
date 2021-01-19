@@ -1,0 +1,8 @@
+{
+    "TOKEN": "Poner el token de tu bot de discord",
+    "SERVER": "Poner La IP de tu servidor de minecraft",
+    "CHANNEL": "Poner la ID del canal de discord donde quieras que funcione, recordar que el bot tenga permisos para hablar",
+    "USER": "Username para el bot de minecraft",
+    "COMMAND_JOIN": "Un comando que quieras que ponga el bot al entrar, EJEMPLO /login 12345678",
+    "TYPE": "SAY / MESSAGE"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "interchat-minecraft-discord",
+  "version": "1.0.0",
+  "description": "Un bot de Minecraft vinculado con uno de discord para crear un chat entre ambos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "minecraft",
+    "discord.js"
+  ],
+  "author": "sintcraft",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mineflayer": "^2.40.1"
+  }
+}
